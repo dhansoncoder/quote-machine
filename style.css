@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(46, 45, 43);
+}
+.title{
+    text-align:center;
+    font-family: 'Sacramento', cursive;
+    color: rgb(216, 203, 190);
+}
+
+.quote-container{
+    background-color:transparent;
+    color: rgb(233, 212, 193);;
+    width:40%;
+    text-align:center;
+    margin:0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:140%;
+    padding-bottom:2px;
+    padding-top:2px;
+    border-style:solid;
+    border-color:rgb(233, 212, 193);
+    border-width:1px;
+    border-style:dashed;
+}
+.button-container{
+    margin:0 auto;
+    width:30%;
+    text-align:center;
+    font-family: 'Sacramento', cursive;
+    margin-top:10px;
+}
+#button{
+    color: rgb(233, 212, 193);
+    border: none;
+    outline-color: rgb(194, 184, 174);
+    outline-style: dashed;
+    outline-width:1px;
+    background-color:transparent;
+    font-family: 'Imbue', serif;
+    border-radius: 10px;
+    padding-bottom: 4px;
+    transition:ease-in-out;
+}
